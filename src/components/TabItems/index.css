@@ -1,0 +1,14 @@
+.each-img {
+  font-weight: bold;
+  font-family: 'roboto';
+  font-size: 14px;
+  border: none;
+  background-color: transparent;
+  margin: 10px;
+  color: #ffffff;
+}
+.btn-style {
+  border-bottom: 3px solid white;
+  padding-bottom: 5px;
+  text-align: center;
+}
